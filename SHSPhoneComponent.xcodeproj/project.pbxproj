@@ -10,17 +10,17 @@
 		BEF0E29F1A6E700800A918D5 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BEF0E29E1A6E700800A918D5 /* UIKit.framework */; };
 		BEF0E2A11A6E700D00A918D5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BEF0E2A01A6E700D00A918D5 /* Foundation.framework */; };
 		BEF0E2A31A6E701000A918D5 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BEF0E2A21A6E701000A918D5 /* CoreGraphics.framework */; };
-		D2A2AEF61E2F76DB005AE92A /* SHSPhoneComponent.h in Headers */ = {isa = PBXBuildFile; fileRef = D2A2AEF51E2F76DB005AE92A /* SHSPhoneComponent.h */; };
-		D2A2AF021E2F76E4005AE92A /* SHSFlagAccessoryView.h in Headers */ = {isa = PBXBuildFile; fileRef = D2A2AEF71E2F76E4005AE92A /* SHSFlagAccessoryView.h */; };
+		D2A2AEF61E2F76DB005AE92A /* SHSPhoneComponent.h in Headers */ = {isa = PBXBuildFile; fileRef = D2A2AEF51E2F76DB005AE92A /* SHSPhoneComponent.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D2A2AF021E2F76E4005AE92A /* SHSFlagAccessoryView.h in Headers */ = {isa = PBXBuildFile; fileRef = D2A2AEF71E2F76E4005AE92A /* SHSFlagAccessoryView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D2A2AF031E2F76E4005AE92A /* SHSFlagAccessoryView.m in Sources */ = {isa = PBXBuildFile; fileRef = D2A2AEF81E2F76E4005AE92A /* SHSFlagAccessoryView.m */; };
-		D2A2AF041E2F76E4005AE92A /* SHSPhoneLibrary.h in Headers */ = {isa = PBXBuildFile; fileRef = D2A2AEF91E2F76E4005AE92A /* SHSPhoneLibrary.h */; };
-		D2A2AF051E2F76E4005AE92A /* SHSPhoneLogic.h in Headers */ = {isa = PBXBuildFile; fileRef = D2A2AEFA1E2F76E4005AE92A /* SHSPhoneLogic.h */; };
+		D2A2AF041E2F76E4005AE92A /* SHSPhoneLibrary.h in Headers */ = {isa = PBXBuildFile; fileRef = D2A2AEF91E2F76E4005AE92A /* SHSPhoneLibrary.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D2A2AF051E2F76E4005AE92A /* SHSPhoneLogic.h in Headers */ = {isa = PBXBuildFile; fileRef = D2A2AEFA1E2F76E4005AE92A /* SHSPhoneLogic.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D2A2AF061E2F76E4005AE92A /* SHSPhoneLogic.m in Sources */ = {isa = PBXBuildFile; fileRef = D2A2AEFB1E2F76E4005AE92A /* SHSPhoneLogic.m */; };
-		D2A2AF071E2F76E4005AE92A /* SHSPhoneNumberFormatter.h in Headers */ = {isa = PBXBuildFile; fileRef = D2A2AEFC1E2F76E4005AE92A /* SHSPhoneNumberFormatter.h */; };
+		D2A2AF071E2F76E4005AE92A /* SHSPhoneNumberFormatter.h in Headers */ = {isa = PBXBuildFile; fileRef = D2A2AEFC1E2F76E4005AE92A /* SHSPhoneNumberFormatter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D2A2AF081E2F76E4005AE92A /* SHSPhoneNumberFormatter.m in Sources */ = {isa = PBXBuildFile; fileRef = D2A2AEFD1E2F76E4005AE92A /* SHSPhoneNumberFormatter.m */; };
-		D2A2AF091E2F76E4005AE92A /* SHSPhoneNumberFormatter+UserConfig.h in Headers */ = {isa = PBXBuildFile; fileRef = D2A2AEFE1E2F76E4005AE92A /* SHSPhoneNumberFormatter+UserConfig.h */; };
+		D2A2AF091E2F76E4005AE92A /* SHSPhoneNumberFormatter+UserConfig.h in Headers */ = {isa = PBXBuildFile; fileRef = D2A2AEFE1E2F76E4005AE92A /* SHSPhoneNumberFormatter+UserConfig.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D2A2AF0A1E2F76E4005AE92A /* SHSPhoneNumberFormatter+UserConfig.m in Sources */ = {isa = PBXBuildFile; fileRef = D2A2AEFF1E2F76E4005AE92A /* SHSPhoneNumberFormatter+UserConfig.m */; };
-		D2A2AF0B1E2F76E4005AE92A /* SHSPhoneTextField.h in Headers */ = {isa = PBXBuildFile; fileRef = D2A2AF001E2F76E4005AE92A /* SHSPhoneTextField.h */; };
+		D2A2AF0B1E2F76E4005AE92A /* SHSPhoneTextField.h in Headers */ = {isa = PBXBuildFile; fileRef = D2A2AF001E2F76E4005AE92A /* SHSPhoneTextField.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D2A2AF0C1E2F76E4005AE92A /* SHSPhoneTextField.m in Sources */ = {isa = PBXBuildFile; fileRef = D2A2AF011E2F76E4005AE92A /* SHSPhoneTextField.m */; };
 		D2A2AF0E1E2F76F1005AE92A /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = D2A2AF0D1E2F76F1005AE92A /* Info.plist */; };
 /* End PBXBuildFile section */
